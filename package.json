@@ -29,10 +29,14 @@
     "parallelshell": "^3.0.1"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.3.1",
     "bootstrap-social": "^5.1.1",
+<<<<<<< HEAD
     "jquery": "^3.3.1",
     "lodash": "^4.17.15",
+=======
+    "jquery": "^3.5.0",
+>>>>>>> 2f2e740fa4c4bd3b25f857d1ef55643e6f1ba4db
     "popper.js": "^1.12.9"
   }
 }
